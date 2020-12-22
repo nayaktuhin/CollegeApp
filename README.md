@@ -1,6 +1,8 @@
 # CollegeApp [In Development]
 ## University App - MAKAUT Internship Project
-> An All-In-One App where students can have complete smart services for university related to:
+```
+An All-In-One App where students can have complete smart services for university related to:
+```
 ### 1. Event / Notice
 > Provides the student important college notices and upcoming college events.
 ### 2. Canteen Orders
