@@ -21,4 +21,6 @@
     <string name="onboardingimages">OnBoardingImages</string>
     <string name="notice_board_title">Notice Board</string>
     <string name="notice_board_description">Stay Updated About Events In Your University</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_address">Enter Email Address</string>
 </resources>
