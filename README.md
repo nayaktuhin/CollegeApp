@@ -15,3 +15,6 @@ An All-In-One App where students can have complete smart services for their univ
 
 #### **Please Note:** 
 *This App is made for **University Project only**, and the image assets used are from [Freepik](https://www.freepik.com/)*.
+
+##
+**Team Members :** [@Tutul101](https://github.com/Tutul101).
