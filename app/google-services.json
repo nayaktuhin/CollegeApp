@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597495279256",
+    "project_id": "collegeapp-pro",
+    "storage_bucket": "collegeapp-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597495279256:android:b98046973ec420e9be2aed",
+        "android_client_info": {
+          "package_name": "salty.contaminated.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597495279256-81qtc22duqjo2cfmf40smej2p91ikccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedAiujP0n8Gmy2A7EF7BYfCs-vg20-R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597495279256-81qtc22duqjo2cfmf40smej2p91ikccm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

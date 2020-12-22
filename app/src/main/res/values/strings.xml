@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CollegeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="canteen_order">Canteen Order</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="cleanliness_description">Report Unclean Areas In Your Campus</string>
+    <string name="cleanliness_title">Request For Cleanliness</string>
+    <string name="lost_and_found_title">Lost And Found</string>
+    <string name="lost_and_found_description">Easily Find Your Lost Item and Help Others To Find Theirs</string>
+    <string name="canteen_order_description">Conveniently Order Food From Canteen Of Your University</string>
+    <string name="onboardingimages">OnBoardingImages</string>
+    <string name="notice_board_title">Notice Board</string>
+    <string name="notice_board_description">Stay Updated About Events In Your University</string>
+</resources>
