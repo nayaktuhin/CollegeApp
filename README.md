@@ -1,4 +1,4 @@
-# CollegeApp [In Development]
+# CollegeApp [In-Development]
 ## University App - MAKAUT Internship Project
 ```
 An All-In-One App where students can have complete smart services for their university.
